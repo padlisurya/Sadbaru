@@ -38,7 +38,7 @@ global.thumb = fs.readFileSync("./src/papah2.jpg")
 global.profil = fs.readFileSync("./src/papah.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
+global.gc = "https://chat.whatsapp.com"
 global.gh = "https://github.com/FahriAdison"
 global.yt = "https://bit.ly/Papah-Chan"
 global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
@@ -120,8 +120,8 @@ global.log = function log() {
 global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
-	['62895612153565', 'Johannes', true],
-	['6282287219167', 'Papah-Chan', true]
+	['6281543385935', 'dli', true],
+	['6281543385935', 'pad', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -139,24 +139,24 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'padli'
+global.author = 'surya'
 
-global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
-global.sig = 'https://instagram.com/bot_whangsaf'
+global.sgc = 'https://chat.whatsapp.com/'
+global.sig = 'https://instagram.com/padlisuryakusuma_'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://www.instagram.com/padlisuryakusuma_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 815-4338-5935'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
+global.nomorbot = '6283832129854'
+global.nomorown = '6281543385935'
 global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nameown = 'PdLi'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
